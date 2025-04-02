@@ -1,7 +1,7 @@
-# Discord Bot Code Leak - [Lock N Load](https://discord.gg/teamkronix)
+# Discord Bot Code Leak - [Lock N Load](https://discord.gg/nashedi)
 
 ## Overview
-This repository contains the leaked code for [Lock N Load](https://discord.gg/teamkronix). Feel free to explore, learn, or use it as you like. Please note that this code is provided for educational purposes, and I am not responsible for any misuse.
+This repository contains the leaked code for [Lock N Load](https://discord.gg/nashedi). Feel free to explore, learn, or use it as you like. Please note that this code is provided for educational purposes, and I am not responsible for any misuse.
 
 
 - skided by [ve1oc1ty.](https://discord.com/users/1305332713577910394)
