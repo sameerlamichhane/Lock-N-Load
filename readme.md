@@ -4,9 +4,9 @@
 This repository contains the leaked code for [Lock N Load](https://discord.gg/teamkronix). Feel free to explore, learn, or use it as you like. Please note that this code is provided for educational purposes, and I am not responsible for any misuse.
 
 
-- skided by [snoww.](https://discord.com/users/1092374628556615690)
+- skided by [ve1oc1ty.](https://discord.com/users/1305332713577910394)
 
-- Tested by [venom](https://discord.com/users/1175020913712975877)
+- Tested by [ve1oc1ty](https://discord.com/users/1305332713577910394)
 
 ## Disclaimer
 This code is leaked for fun and educational purposes only. Please do not use it for malicious activities. The original creators of the bot own the rights to the code.
